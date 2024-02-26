@@ -1,2 +1,2 @@
 # ICHAT1
-it's a basic chat application 
+it is a chat application leveraging Socket.IO for real-time communication...  
